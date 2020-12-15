@@ -2,5 +2,4 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-#if ringneed ~ carmelo:
-#white = True
+"Free Gypsy Rose she ain't do nothin"
